@@ -12,8 +12,8 @@ Github Daniel Selbach: https://github.com/danielselbachtechofc<br>
 🔴 Oracle VirtualBOX: https://www.virtualbox.org/<br>
 🔴 Download EVE-NG: https://www.eve-ng.net/index.php/download/<br>
 
-## **Documentação Oficial sobre requisito do sistema:**
-https://www.eve-ng.net/index.php/documentation/installation/system-requirement/
+## **Documentação Oficial do EVE-NG sobre requisito do sistema:**
+🔴 EVE-NG: https://www.eve-ng.net/index.php/documentation/installation/system-requirement/
 
 
 ## **COMO INSTALAR EVE-NG NO VIRTUALBOX - VIRTUALBOX | DANIEL SELBACH**
