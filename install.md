@@ -10,7 +10,8 @@ Data de criação: 11/08/2024<br>
 
 #01_ Primeira etapa: Verifique a Arquitetura do Sistema Operacional
 ```bash
-A) Verificar a Arquitetura do Sistema Operacional: Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
+A) Verificar a Arquitetura do Sistema Operacional:
+Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
 ```
 
 #02_ Segunda etapa: Download da ISO do EVE-NG e Client do EVE-NG
