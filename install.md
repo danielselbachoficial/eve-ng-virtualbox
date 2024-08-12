@@ -89,7 +89,7 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 <OK>
 ```
 
-#06 Sexta Etapa: Instalação e Configuração do EVE-NG<br>
+#06 Sexta Etapa: Primeira parte da Instalação do EVE-NG<br>
 ```bash
 A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/installation/virtual-machine-install/
 
@@ -108,5 +108,28 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 06) Ao aparecer uma mensagem, clique na opção "Continuar" para instalar o EVE-NG.
 
 <OBS: Ao clicar em “NÃO” você vai instalar o sistema operacional Ubuntu, em vez do EVE-NG.>
+```
+
+#07 Sétima Etapa: Segunda parte da Instalação do EVE-NG<br>
+```bash
+
+<ATENÇÃO NESTA PARTE!!!>
+01) Quando informar a mensagem para solicitar a instalação novamente do EVE-NG, desligue a máquina virtual.
+	1.1 Clique no "X" para fechar a Máquina Virtual.
+		1.2 Marque a opção "Desligue a máquina".
+			1.3 Clique em "OK".
+
+02) Selecionar a Máquina Virtual: eve-ng
+<Configurações>
+
+03) Clicar em "Armazenamento"
+
+04) Selecionar o dispositivo de armazenamento
+	Controladora: IDE
+		Selecionar a imagem ISO "eve-ce-prod-6.2.0-4-full.iso".
+			Clicar com botão direito do mouse e clicar em "Remover Conexão" > "Remover".
+
+05) Clicar em "OK".
+```
 
 
