@@ -185,7 +185,7 @@ A) Link de download da imagem MikroTik: https://download.mikrotik.com/routeros/7
 
 02) Agora, use os comandos abaixo para criar a imagem MikroTik dentro do EVE-NG.
 
-<ATENÇÃO, FAÇA OS COMANDOS EM SEQUÊNCIA, NÃO PULE NENHUM COMANDO, CASO CONTRÁRIO NÃO FUNCIONARÁ!!!>
+<ATENÇÃO, FAÇA OS COMANDOS ABAIXO EM SEQUÊNCIA, NÃO PULE NENHUM COMANDO E TAMBÉM NÃO COLE TODOS OS COMANDOS DE UMA VEZ NO TERMINAL, CASO CONTRÁRIO NÃO FUNCIONARÁ!!!>
 
 mkdir -p /opt/unetlab/addons/qemu/mikrotik-7.15.3
 
