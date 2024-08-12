@@ -171,7 +171,36 @@ Exemplo: 10.0.20.250
 			1.3 Clicar em salvar e aguardar o laboratório abrir.
 ```
 
+#10 Décima Etapa: Adicionar um vendor novo no EVE-NG<br>
+```bash
+A) Link de download da imagem MikroTik: https://download.mikrotik.com/routeros/7.15.3/chr-7.15.3.vmdk.zip
 
+01) Abrir o PowerShell ou CMD e acessar a Máquina Virtual do EVE-NG via SSH.
+<ssh usuário@ip-da-eve-ng>
+<Exemplo: ssh root@10.0.20.250>
 
+02) Apos, informar a mensagem "Are you sure want to continue connecting (yes/no/[fingerprint])?" em inglês ou "Tem certeza de que deseja continuar conectando (sim/não/[impressão digital])?" em português.
+	1.1 Digitar "yes ou sim" e apertar "ENTER".
+		1.2 Digitar a senha do usuário e apertar "ENTER".
+
+02) Agora, use os comandos abaixo para criar a imagem MikroTik dentro do EVE-NG.
+
+<ATENÇÃO, FAÇA OS COMANDOS EM SEQUÊNCIA, NÃO PULE NENHUM COMANDO, CASO CONTRÁRIO NÃO FUNCIONARÁ!!!>
+
+mkdir -p /opt/unetlab/addons/qemu/mikrotik-7.15.3
+
+cd /opt/unetlab/addons/qemu/mikrotik-7.15.3
+
+wget https://download.mikrotik.com/routeros/7.15.3/chr-7.15.3.vmdk.zip
+
+unzip chr-7.15.3.vmdk.zip
+
+/opt/qemu/bin/qemu-img convert -f vmdk -O qcow2 chr-7.15.3.vmdk hda.qcow2
+
+/opt/unetlab/wrappers/unl_wrapper -a fixpermissions
+
+rm -rf chr-7.15.3.vmdk
+rm -rf chr-7.15.3.vmdk.zip
+```
 
 
