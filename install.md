@@ -21,17 +21,18 @@ C) Arquitetura do Sistema Operacional: 64-bit
 D) Tipo de instalação: DVD Image (ISO) Installer
 ```
 
-#04_ Terceira etapa: Criação da Máquina Virtual no Oracle VirtualBOX
-
+#03_ Terceira etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+```bash
 01) Localize o arquivo do EVE-NG Client.
 
 02) Execite p arquivo do EVE-NG Client.
 <EVE-NG-Win-Client-Pack-2.0.exe>
 
 03) Aceite os termos da instalação e clique em próximo durante o processo para concluir a instalação do EVE-NG Client.
-
+```
 
 #04_ Quarta etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+```bash
 A) Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
