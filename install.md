@@ -11,18 +11,22 @@ OBSERVAÇÃO IMPORTANTE: COMENTAR NO VÍDEO QUE VOCÊ CONCLUIU COM SUCESSO A INS
 
 #danielselbach #redesecibersegurança #eveng #virtualbox #mikrotik #emuladorderedes
 
-Conteúdo do vídeo:
-#01_ Verificar a Arquitetura do Sistema Operacional;
-#02_ Download da ISO do EVE-NG e Client do EVE-NG;
-#03_ Instalação do EVE-NG Client;
-#04_ Criação da Máquina Virtual no Oracle VirtualBOX;
-#05_ Configurações da Máquina Virtual EVE-NG;
-#06_ Primeira parte da Instalação do EVE-NG;
-#07_ Segunda parte da Instalação do EVE-NG;
-#08_ Terceira parte da Instalação do EVE-NG;
-#09_ Acessando o EVE-NG no navegador de internet;
-#10_ Adicionar um vendor novo no EVE-NG;
-#11_ Acessar novamente o EVE-NG no navegador de internet e acessando o MikroTik.
+Conteúdo do vídeo:<br>
+#01_ Verificar a Arquitetura do Sistema Operacional;<br>
+#02_ Download da ISO do EVE-NG e Client do EVE-NG;<br>
+#03_ Instalação do EVE-NG Client;<br>
+#04_ Criação da Máquina Virtual no Oracle VirtualBOX;<br>
+#05_ Configurações da Máquina Virtual EVE-NG;<br>
+#06_ Primeira parte da Instalação do EVE-NG;<br>
+#07_ Segunda parte da Instalação do EVE-NG;<br>
+#08_ Terceira parte da Instalação do EVE-NG;<br>
+#09_ Acessando o EVE-NG no navegador de internet;<br>
+#10_ Adicionar um vendor novo no EVE-NG;<br>
+#11_ Acessar novamente o EVE-NG no navegador de internet e acessando o MikroTik.<br>
+
+Site Oficial do Oracle VirtualBOX: https://www.virtualbox.org/<br>
+Site Oficial do EVE-NG: https://www.eve-ng.net/<br>
+Site Oficial do MikroTik: https://mikrotik.com/<br>
 
 # Manual de instalação e configuração do EVE-NG no VirtualBOX 
 
