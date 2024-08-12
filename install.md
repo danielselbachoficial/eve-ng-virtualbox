@@ -114,6 +114,8 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 06) Ao aparecer uma mensagem, clique na opção "Continuar" para instalar o EVE-NG.
 
 <OBS: Ao clicar em “NÃO” você vai instalar o sistema operacional Ubuntu, em vez do EVE-NG.>
+
+07) Aguarde a finalização da instalação.
 ```
 
 #07 Sétima Etapa: Segunda parte da Instalação do EVE-NG<br>
@@ -138,7 +140,7 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 05) Clicar em "OK".
 ```
 
-#08 Oitava Etapa: Segunda parte da Instalação do EVE-NG<br>
+#08 Oitava Etapa: Terceira parte da Instalação do EVE-NG<br>
 ```bash
 
 01) Selecionar a Máquina Virtual: eve-ng
@@ -149,8 +151,27 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 <Senha: eve>
 
 03) Após usar o usuário e senha padrão do EVE-NG, vai aparecer uma mensagem perguntando se você quer alterar a senha root do EVE-NG, alterar o nome da máquina virtual, configurar IP via DHCP (Pode mudar) ou estático (Não muda), selecionar o servidor NTP, configurar o servidor Proxy.
+
 <OBS: Se não quiser alterar nada nesta parte, aperte "ENTER" em todas as opções.>
 ```
 
-#09 Nona Etapa: Segunda parte da Instalação do EVE-NG<br>
+#09 Nona Etapa: Acessando o EVE-NG no navegador de internet<br>
 ```bash
+
+01) Abra o seu navegador de internet e digite o IP do seu EVE-NG.
+Exemplo: 10.0.20.250
+
+02) Digite o usuário e senha, após clique em "Sign in (Entrar) ou aperte a tecla ENTER".
+<Usuário: admin>
+<Senha: eve>
+
+03) Criar um laboratório.
+	1.1 Clicar no ícone de "documento" no menu abaixo de novo nome no lado esquerdo.
+		1.2 Informar um nome para o laboratório.
+			1.3 Clicar em salvar e aguardar o laboratório abrir.
+```
+
+
+
+
+
