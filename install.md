@@ -98,5 +98,13 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 
 02) Ao iniciar aperta a sequência de teclas: F12 > C > ENTER
 
-03) 
+03) Selecionar o idioma da sua preferência. Ex: Português (Brazil) ou English.
+
+04) Selecione o layout do seu teclado. Ex: Portuguese, para teclados ABNT2 (PT-BR)
+
+05) Clicar em "Concluído".
+
+06) Ao aparecer uma mensagem, clique na opção "Continuar" para instalar o EVE-NG.
+
+<OBS: Ao clicar em "NÃO" você vai instalar o sistema operacional Ubuntu.>
 
