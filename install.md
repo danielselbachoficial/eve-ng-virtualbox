@@ -10,8 +10,7 @@ Data de criação: 11/08/2024<br>
 
 #01_ Primeira etapa: Verifique a Arquitetura do Sistema Operacional
 ```bash
-A) Verificar a Arquitetura do Sistema Operacional:
-Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
+A) Verificar a Arquitetura do Sistema Operacional: Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
 ```
 
 #02_ Segunda etapa: Download da ISO do EVE-NG e Client do EVE-NG
@@ -22,7 +21,17 @@ C) Arquitetura do Sistema Operacional: 64-bit
 D) Tipo de instalação: DVD Image (ISO) Installer
 ```
 
-#03_ Terceira etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+#04_ Terceira etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+
+01) Localize o arquivo do EVE-NG Client.
+
+02) Execite p arquivo do EVE-NG Client.
+<EVE-NG-Win-Client-Pack-2.0.exe>
+
+03) Aceite os termos da instalação e clique em próximo durante o processo para concluir a instalação do EVE-NG Client.
+
+
+#04_ Quarta etapa: Criação da Máquina Virtual no Oracle VirtualBOX
 A) Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
@@ -55,7 +64,7 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 <Finalizar>
 ```
 
-#04_ Quarta Etapa: Configurações da Máquina Virtual EVE-NG
+#05_ Quinta Etapa: Configurações da Máquina Virtual EVE-NG
 ```bash
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 
@@ -79,8 +88,14 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 <OK>
 ```
 
-#05 Quinta Etapa: Instalação e Configuração do EVE-NG<br>
+#06 Sexta Etapa: Instalação e Configuração do EVE-NG<br>
 ```bash
 A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/installation/virtual-machine-install/
 
+01) Selecionar a Máquina Virtual: eve-ng
+<Iniciar>
+
+02) Ao iniciar aperta a sequência de teclas: F12 > C > ENTER
+
+03) 
 
