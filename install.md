@@ -106,5 +106,5 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 
 06) Ao aparecer uma mensagem, clique na opção "Continuar" para instalar o EVE-NG.
 
-<OBS: Ao clicar em "NÃO" você vai instalar o sistema operacional Ubuntu.>
+<OBS: Ao clicar em “NÃO” você vai instalar o sistema operacional Ubuntu, em vez do EVE-NG.>
 
