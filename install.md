@@ -5,27 +5,42 @@ Linkedin Daniel Selbach: https://www.linkedin.com/in/danielselbachtech/<br>
 Github Daniel Selbach: https://github.com/danielselbachtechofc<br>
 Data de criação: 11/08/2024<br>
 
+COMPARTILHAR NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM) MARCANDO: DANIEL SELBACH COM AS HASHTAGS E COPIANDO O CONTEÚDO DO VÍDEO ABAIXO:
+
+OBSERVAÇÃO IMPORTANTE: COMENTAR NO VÍDEO QUE VOCÊ CONCLUIU COM SUCESSO A INSTALAÇÃO DO EVE-NG NO VIRTUALBOX E CONSEGUIU ADICIONAR O VENDOR MIKROTIK NO SEU EVE-NG COM A SEGUINTE FRASE: Instalação do EVE-NG e MikroTik no EVE-NG realizado com sucesso!!!
+
+#danielselbach #redesecibersegurança #eveng #virtualbox #mikrotik #emuladorderedes
+
+Conteúdo do vídeo:
+#01_ Verificar a Arquitetura do Sistema Operacional;
+#02_ Download da ISO do EVE-NG e Client do EVE-NG;
+#03_ Instalação do EVE-NG Client;
+#04_ Criação da Máquina Virtual no Oracle VirtualBOX;
+#05_ Configurações da Máquina Virtual EVE-NG;
+#06_ Primeira parte da Instalação do EVE-NG;
+#07_ Segunda parte da Instalação do EVE-NG;
+#08_ Terceira parte da Instalação do EVE-NG;
+#09_ Acessando o EVE-NG no navegador de internet;
+#10_ Adicionar um vendor novo no EVE-NG;
+#11_ Acessar novamente o EVE-NG no navegador de internet e acessando o MikroTik.
 
 # Manual de instalação e configuração do EVE-NG no VirtualBOX 
 
-#01_ Primeira etapa: Verifique a Arquitetura do Sistema Operacional
+#01_ Primeira etapa: Verificar a Arquitetura do Sistema Operacional
 ```bash
-
 A) Verificar a Arquitetura do Sistema Operacional: Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
 ```
 
 #02_ Segunda etapa: Download da ISO do EVE-NG e Client do EVE-NG
 ```bash
-
 A) Link de download do EVE-NG e Client EVE-NG: https://www.eve-ng.net/index.php/download/
 B) Versão do download EVE-NG e Client EVE-NG: eve-ce-prod-6.2.0-4-full.iso / EVE-NG-Win-Client-Pack-2.0.exe (Link atualizado em 11/08/2024)
 C) Arquitetura do Sistema Operacional: 64-bit
 D) Tipo de instalação: DVD Image (ISO) Installer
 ```
 
-#03_ Terceira etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+#03_ Terceira etapa: Instalação do EVE-NG Client
 ```bash
-
 01) Localize o arquivo do EVE-NG Client.
 
 02) Execite p arquivo do EVE-NG Client.
@@ -36,7 +51,6 @@ D) Tipo de instalação: DVD Image (ISO) Installer
 
 #04_ Quarta etapa: Criação da Máquina Virtual no Oracle VirtualBOX
 ```bash
-
 A) Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
@@ -71,7 +85,6 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 
 #05_ Quinta Etapa: Configurações da Máquina Virtual EVE-NG
 ```bash
-
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 
 01) Selecionar a Máquina Virtual: eve-ng
@@ -96,7 +109,6 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 
 #06 Sexta Etapa: Primeira parte da Instalação do EVE-NG<br>
 ```bash
-
 A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/installation/virtual-machine-install/
 
 01) Selecionar a Máquina Virtual: eve-ng
@@ -120,7 +132,6 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 
 #07 Sétima Etapa: Segunda parte da Instalação do EVE-NG<br>
 ```bash
-
 <ATENÇÃO NESTA PARTE!!!>
 01) Quando informar a mensagem para solicitar a instalação novamente do EVE-NG, desligue a máquina virtual.
 	1.1 Clique no "X" para fechar a Máquina Virtual.
@@ -142,7 +153,6 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 
 #08 Oitava Etapa: Terceira parte da Instalação do EVE-NG<br>
 ```bash
-
 01) Selecionar a Máquina Virtual: eve-ng
 <Iniciar>
 
@@ -154,10 +164,8 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 
 <OBS: Se não quiser alterar nada nesta parte, aperte "ENTER" em todas as opções.>
 ```
-
 #09 Nona Etapa: Acessando o EVE-NG no navegador de internet<br>
 ```bash
-
 01) Abra o seu navegador de internet e digite o IP do seu EVE-NG.
 Exemplo: 10.0.20.250
 
@@ -203,4 +211,51 @@ rm -rf chr-7.15.3.vmdk
 rm -rf chr-7.15.3.vmdk.zip
 ```
 
+#11 Décima Primeira Etapa: Acessar novamente o EVE-NG no navegador de internet e acessando o MikroTik<br>
+```bash
+A) Link de Download do Winbox: https://mikrotik.com/download
 
+01) Abra o seu navegador de internet e digite o IP do seu EVE-NG.
+Exemplo: 10.0.20.250
+
+02) Digite o usuário e senha, após clique em "Sign in (Entrar) ou aperte a tecla ENTER".
+<Usuário: admin>
+<Senha: eve>
+
+03) Acesse o laboratório criado na "nona etapa".
+
+04) Clicar com o botão direito do mouse > Clicar em Node para adicionar o MikroTik.
+
+05) Clicar com o botão direito do mouse > Clicar em Network > Management(Cloud0) para adicionar a rede.
+
+06) Clicar com o botão direito do mouse > Clicar em Node para adicionar o MikroTik.
+
+07) Conectar o Network "Management(Cloud0)" em alguma porta do MikroTik para ter conexão de internet e receber IP via DHCP Client.
+
+08) Clicar duas vezes no MikroTik > Clicar em "Start (começar)".
+
+09) Aguarde alguns segundos, e clique duas vezes no MikroTik > Clique em "Open SSH, Telnet, and Rlogin client" em inglês ou "Abra o SSH, Telnet, e Rlogin client" em português.
+
+10) No terminal do MikroTik, informe o usuário e senha padrão do MikroTik.
+<Usuário: admin>
+<Senha: <Sem senha>
+
+11) Aguarde alguns segundos, e aperte a tecla "Y" > "Q".
+
+12) Digitar uma nova senha para o MikroTik.
+<OBS: A senha digitada será a senha para acessar o MikroTik via Winbox.>
+
+13) digite o comando "ip address print" para verificar o IP que o MikroTik recebeu via DHCP Client.
+
+14) Abrir o Winbox e informar o IP do MikroTik.
+
+15) Testar ping para internet no MikroTik em "Tools > Ping".
+```
+
+# PARABÉNS VOCÊ CONCLUIU COM SUCESSO A INSTALAÇÃO DO EVE-NG NO VIRTUALBOX E AINDA APRENDEU COMO ADICIONAR O VENDOR MIKROTIK NO SEU EVE-NG!!!
+
+COMPARTILHAR NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM) MARCANDO: DANIEL SELBACH COM AS HASHTAGS E COPIANDO O CONTEÚDO DO VÍDEO ABAIXO:
+
+OBSERVAÇÃO IMPORTANTE: COMENTAR NO VÍDEO QUE VOCÊ CONCLUIU COM SUCESSO A INSTALAÇÃO DO EVE-NG NO VIRTUALBOX E CONSEGUIU ADICIONAR O VENDOR MIKROTIK NO SEU EVE-NG COM A SEGUINTE FRASE: Instalação do EVE-NG e MikroTik no EVE-NG realizado com sucesso!!!
+
+#danielselbach #redesecibersegurança #eveng #virtualbox #mikrotik #emuladorderedes
