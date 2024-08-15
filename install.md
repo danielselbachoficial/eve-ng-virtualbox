@@ -109,6 +109,13 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 	  #QUE ESTÁ CONECTADO NA SUA REDE LOCAL, PODE SER PLACA DE REDE CABEADA OU PLACA
 	  #SEM-FIO (RECOMENDO SEMPRE PLACA DE REDE CABEADA, MELHOR DESEMPENHO).
 <OK>
+
+<OBS: Caso não consiga ativar a virtualização marcando a opção "Habilitar VT-x/AMD-v Aninhado ", use os comandos abaixo, no CMD no modo administrador:>
+cd C:\Program Files\Oracle\VirtualBox
+VBoxManage modifyvm SubstituaEsteCampoPeloNomedaMáquinaVirtual --nested-hw-virt on
+
+Exemplo:
+VBoxManage modifyvm EVE-NG --nested-hw-virt on
 ```
 
 #06 Sexta Etapa: Primeira parte da Instalação do EVE-NG<br>
