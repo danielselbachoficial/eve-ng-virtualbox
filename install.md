@@ -116,6 +116,8 @@ VBoxManage modifyvm SubstituaEsteCampoPeloNomedaMáquinaVirtual --nested-hw-virt
 
 Exemplo:
 VBoxManage modifyvm EVE-NG --nested-hw-virt on
+
+![image](https://github.com/user-attachments/assets/add404bd-ab7f-4836-a5d1-dc79a3d8ce6c)
 ```
 
 #06 Sexta Etapa: Primeira parte da Instalação do EVE-NG<br>
