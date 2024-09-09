@@ -167,9 +167,7 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 01) Selecionar a Máquina Virtual: eve-ng
 <Iniciar>
 
-02) Aguardar finalizar o processo de instalação.
-![image](https://github.com/user-attachments/assets/d769e833-ef52-4620-a5eb-1e2e747d8b5c)
-
+02) Aguardar finalizar o processo de instalação, quando informar a mensagem "Second state install in progress....".
 
 03) Insira o usuário e senha padrão do EVE-NG.
 <Usuário: root>
