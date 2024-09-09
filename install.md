@@ -167,11 +167,15 @@ A) Instalação do EVE-NG: https://www.eve-ng.net/index.php/documentation/instal
 01) Selecionar a Máquina Virtual: eve-ng
 <Iniciar>
 
-02) Aguarde a Máquina Virtual iniciar para inserir o usuário e senha padrão do EVE-NG.
+02) Aguardar finalizar o processo de instalação.
+![image](https://github.com/user-attachments/assets/d769e833-ef52-4620-a5eb-1e2e747d8b5c)
+
+
+03) Insira o usuário e senha padrão do EVE-NG.
 <Usuário: root>
 <Senha: eve>
 
-03) Após usar o usuário e senha padrão do EVE-NG, vai aparecer uma mensagem perguntando se você quer alterar a senha root do EVE-NG, alterar o nome da máquina virtual, configurar IP via DHCP (Pode mudar) ou estático (Não muda), selecionar o servidor NTP, configurar o servidor Proxy.
+04) Após usar o usuário e senha padrão do EVE-NG, vai aparecer uma mensagem perguntando se você quer alterar a senha root do EVE-NG, alterar o nome da máquina virtual, configurar IP via DHCP (Pode mudar) ou estático (Não muda), selecionar o servidor NTP, configurar o servidor Proxy.
 
 <OBS: Se não quiser alterar nada nesta parte, aperte "ENTER" em todas as opções.>
 ```
