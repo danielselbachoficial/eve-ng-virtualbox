@@ -30,12 +30,12 @@ Site Oficial do MikroTik: https://mikrotik.com/<br>
 
 # Manual de instalação e configuração do EVE-NG no VirtualBOX 
 
-#01_ Primeira etapa: Verificar a Arquitetura do Sistema Operacional
+#01_ Primeira etapa: Verificar a Arquitetura do Sistema Operacional<br>
 ```bash
 A) Verificar a Arquitetura do Sistema Operacional: Clique no ícone da lupa no Windows e vá em "Sistema" e na aba "Tipo de Sistema", verifique se informa "Sistema operacional de 64 bits, processador baseado em x64" ou algo do tipo, validando que o seu sistema operacional é 64-bit.
 ```
 
-#02_ Segunda etapa: Download da ISO do EVE-NG e Client do EVE-NG
+#02_ Segunda etapa: Download da ISO do EVE-NG e Client do EVE-NG<br>
 ```bash
 A) Link de download do EVE-NG e Client EVE-NG: https://www.eve-ng.net/index.php/download/
 B) Versão do download EVE-NG e Client EVE-NG: eve-ce-prod-6.2.0-4-full.iso / EVE-NG-Win-Client-Pack-2.0.exe (Link atualizado em 11/08/2024)
@@ -43,7 +43,7 @@ C) Arquitetura do Sistema Operacional: 64-bit
 D) Tipo de instalação: DVD Image (ISO) Installer
 ```
 
-#03_ Terceira etapa: Instalação do EVE-NG Client
+#03_ Terceira etapa: Instalação do EVE-NG Client<br>
 ```bash
 01) Localize o arquivo do EVE-NG Client.
 
@@ -53,7 +53,7 @@ D) Tipo de instalação: DVD Image (ISO) Installer
 03) Aceite os termos da instalação e clique em próximo durante o processo para concluir a instalação do EVE-NG Client.
 ```
 
-#04_ Quarta etapa: Criação da Máquina Virtual no Oracle VirtualBOX
+#04_ Quarta etapa: Criação da Máquina Virtual no Oracle VirtualBOX<br>
 ```bash
 A) Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 
@@ -87,7 +87,7 @@ Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 <Finalizar>
 ```
 
-#05_ Quinta Etapa: Configurações da Máquina Virtual EVE-NG
+#05_ Quinta Etapa: Configurações da Máquina Virtual EVE-NG<br>
 ```bash
 Oracle VirtualBOX Gerenciado (versão 7.x ou superior).
 
