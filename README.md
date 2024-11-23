@@ -1,5 +1,9 @@
 # Como instalar EVE-NG no Virtualbox
 
+Sejam bem-vindos ao repositório da aula "Como instalar EVE-NG no Virtualbox".
+
+Me chamo Daniel Selbach, sou empreendedor, Mentor de Fortinet na Six Core, YouTuber.
+
 Daniel Selbach<br>
 Instagram Daniel Selbach: https://www.instagram.com/danielselbachredes/<br>
 YouTube Daniel Selbach: https://www.youtube.com/@danielselbachredes<br>
