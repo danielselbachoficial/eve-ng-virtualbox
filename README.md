@@ -1,10 +1,10 @@
 # Como instalar EVE-NG no Virtualbox
 
 Daniel Selbach<br>
-Instagram Daniel Selbach: https://www.instagram.com/danielselbachtechofc/<br>
-YouTube Daniel Selbach: https://www.youtube.com/@danielselbachtechofc<br>
-Linkedin Daniel Selbach: https://www.linkedin.com/in/danielselbachtech/<br>
-Github Daniel Selbach: https://github.com/danielselbachtechofc<br>
+Instagram Daniel Selbach: https://www.instagram.com/danielselbachredes/<br>
+YouTube Daniel Selbach: https://www.youtube.com/@danielselbachredes<br>
+Linkedin Daniel Selbach: https://www.linkedin.com/in/danielselbachredes/<br>
+Github Daniel Selbach: https://github.com/danielselbachredes<br>
 
 
 ## **Links Oficiais do EVE-NG, Virtualbox:**
