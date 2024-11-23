@@ -1,8 +1,8 @@
 Autor: Daniel Selbach<br>
-Instagram Daniel Selbach: https://www.instagram.com/danielselbachtechofc/<br>
-YouTube Daniel Selbach: https://www.youtube.com/@danielselbachtechofc<br>
-Linkedin Daniel Selbach: https://www.linkedin.com/in/danielselbachtech/<br>
-Github Daniel Selbach: https://github.com/danielselbachtechofc<br>
+Instagram Daniel Selbach: https://www.instagram.com/danielselbachredes/<br>
+YouTube Daniel Selbach: https://www.youtube.com/@danielselbachredes<br>
+Linkedin Daniel Selbach: https://www.linkedin.com/in/danielselbachredes/<br>
+Github Daniel Selbach: https://github.com/danielselbachredes<br>
 Data de criação: 11/08/2024<br>
 
 COMPARTILHAR NAS SUAS REDES SOCIAIS (LINKEDIN, FACEBOOK, INSTAGRAM) MARCANDO: DANIEL SELBACH COM AS HASHTAGS E COPIANDO O CONTEÚDO DO VÍDEO ABAIXO:
