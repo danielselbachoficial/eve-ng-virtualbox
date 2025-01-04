@@ -28,4 +28,4 @@ Vídeo de instalação do EVE-NG no Oracle VirtualBox, nesse vídeo você vai ap
 
 Link da vídeo aula: https://www.youtube.com/watch?v=gjPos-4JMiY
 
-Link da documentação de instalação: https://github.com/danielselbachtechofc/eve-ng-virtualbox/blob/main/install.md
+Link da documentação de instalação: https://github.com/danielselbachredes/eve-ng-virtualbox/blob/main/install.md
